@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
-<h3 align="center">A passionate full stack developer from Anaheim, California</h3>
+<h3 align="center">A passionate Full Stack Developer from Anaheim, California</h3>
 
 - 🌱 I’m currently learning **Next.js**
 
