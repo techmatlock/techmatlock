@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">A passionate Full Stack Developer from Anaheim, California</h3>
 
-- 🌱 I’m currently learning **Next.js**
+🌱 I’m currently learning **Next.js**
 
-- 📫 How to reach me **techmatlock@gmail.com**
+📫 How to reach me **techmatlock@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
