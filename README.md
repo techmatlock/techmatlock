@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">A passionate Full Stack Developer from Anaheim, California</h3>
 
-<p>My background extends 4+ years of professional IT experience with the most recent 2 years as a Systems Engineer.  I decided to pivot my career into coding after discovering a love for building websites and architecting frontend & backend applications.  When I'm not coding I like to cook, volunteer walking dogs and spend time with family & friends.</p>
+<p>My background includes 4+ years of professional IT experience, with the most recent 2 years as a Systems Engineer.  I decided to pivot my career into coding after teaching myself Python and discovering a passion for building full stack applications. When I'm not coding, I enjoy cooking, volunteering to walk dogs, and spending time with family and friends.</p>
 
 🌱 I’m currently learning **AWS Serverless**
 
