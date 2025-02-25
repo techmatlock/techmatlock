@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
-<h3 align="center">A passionate Systems Engineer from Anaheim, California</h3>
+<h3 align="center">A passionate Full Stack Engineer from Anaheim, California</h3>
 
 <p>My background includes 4+ years of professional IT experience, with the most recent 2 years as a Systems Engineer.  I decided to pivot my career into coding after discovering a love for building websites and constantly challenging myself with creating serverless applications.  When I'm not working I enjoy cooking, hiking and watching tv shows.</p>
 
